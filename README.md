@@ -1,2 +1,3 @@
-# wander_xp
-Organise your travel with ease
+# wanderXP
+
+Organize your travel with ease
