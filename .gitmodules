@@ -1,0 +1,6 @@
+[submodule "wander_xp_app"]
+	path = wander_xp_app
+	url = https://github.com/sbis04/wander_xp_app
+[submodule "wander-xp-linode"]
+	path = wander-xp-linode
+	url = https://github.com/sbis04/wander-xp-linode
