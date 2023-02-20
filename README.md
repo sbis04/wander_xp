@@ -34,7 +34,7 @@ The tech stack used for building this project:
 
 ![](screenshots/linode-app-3.png)
 
-### License
+## License
 
 Copyright (c) 2023 Souvik Biswas
 
